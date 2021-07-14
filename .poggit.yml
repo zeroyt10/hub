@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/zeroyt10/hub
+build-by-default: true
+branches:
+- main
+projects:
+  hub:
+    path: ""
+...
