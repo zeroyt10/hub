@@ -1,0 +1,10 @@
+---
+name: hub
+main: ZERO\hub\Main
+version: "1.0"
+api: 3.0.0
+author: ZERO
+commands:
+  hub:
+    description: Teleport to hub
+...
